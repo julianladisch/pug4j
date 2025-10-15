@@ -88,7 +88,7 @@ This document contains a comprehensive list of improvement tasks for the pug4j p
 - [ ] Set up automated dependency updates (Dependabot/Renovate)
 
 ### Java Modernization
-- [ ] Consider upgrading minimum Java version from 8 to 11 or 17
+- [x] Consider upgrading minimum Java version from 8 to 11 or 17
 - [x] Replace raw types with generics (Parser.java:1074,1086)
 - [ ] Use diamond operator where applicable
 - [ ] Replace anonymous classes with lambdas where appropriate
