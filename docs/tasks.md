@@ -66,7 +66,7 @@ This document contains a comprehensive list of improvement tasks for the pug4j p
 - [x] Update commons-collections4 from 4.4 to 4.5.0
 - [x] Update caffeine from 2.9.3 to latest 2.x or 3.x version
 - [x] Update gson from 2.10.1 to latest version
-- [x] Update GraalVM from 21.3.12 to latest LTS version
+- [x] Update GraalVM from 21.3.15 to 25.0.0 LTS version
 - [x] Update Jackson BOM from 2.17.2 to latest version
 - [x] Update all test dependencies to latest stable versions
 
